@@ -7,7 +7,8 @@ Bibliotecas Python necessárias: Pillow, pyautogui, pynput, tkinter. Estas podem
 Instalação
 Instalar Python: Certifique-se de que o Python está instalado em seu sistema. Você pode baixá-lo do site oficial do Python.
 Instalar Bibliotecas: Abra o terminal ou prompt de comando e execute o seguinte comando para instalar as bibliotecas necessárias:
-Copy code
+Copy code![image](https://github.com/marcus1298/software-automacao-vision-probot/assets/32516535/2c9c9c97-4ec4-489a-992a-6df6d84519c1)
+
 pip install pillow pyautogui pynput tkinter
 Execução do Programa
 Iniciar o Programa: Abra um terminal ou prompt de comando na pasta onde o script está salvo e execute o comando:
